@@ -23,8 +23,3 @@ the notebook files (using `cd`) and type:
 
 A browser window should open with a list of notebook files. Start by reading
 the `index` notebook and follow the instructions from there.
-
-To run some of these tutorials, you will need to download 
-[this](http://nipy.sourceforge.net/data-packages/nipy-data-0.2.tar.gz) 
-small data archive, which we will use as the basis for our analysis, and extract
-it in the same folder as these notebooks.
