@@ -11,4 +11,18 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 12:00pm - Lunch
 
 ## Afternoon Session (TBD During Hackathon)
-- 1:00pm 
+- 1:00pm : Loris (Samir)
+- 1:15 : Duecredit (Yaroslav)
+- 1:30 : HCP in nipype (?)
+- 1:45 :  C-brain (Tristan)
+- 2:00 : Brainspell (Roberto Toro)
+- 2:15 : Nipype in CBrain
+- 2:30 : Popeye (Kevin Desimone)
+- 2:45 : Self organization and brain function
+- 3:00 : BREAK
+- 3:30 : Open data in the cloud
+- 3:45 : Neurovault
+- 4:00 : Dipy (Ariel)
+- 4:15 : Workflow reproducibility
+
+ 
