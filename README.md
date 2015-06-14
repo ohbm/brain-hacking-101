@@ -11,7 +11,7 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 12:00pm - Lunch
 
 ## Afternoon Session 
-- 1:00pm : Introduction (Nolan Nichols)
+- 1:00pm : Introduction (Cameron Craddock)
 - 1:15pm : Loris (Samir Das)
 - 1:30pm : Duecredit (Yaroslav Halchenko)
 - 1:45pm : HCP in nipype (Eric Earl) 
@@ -20,9 +20,29 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 2:30pm : Popeye (Kevin Desimone)
 - 2:45pm : Self organization and brain function (Jörg Peter)
 - 3:00pm : BREAK
-- 3:30pm : Open data in the cloud
+- 3:30pm : Open data in the cloud (David O'Conner)
 - 3:45pm : Neurovault (Chris Gorgolewski)
 - 4:00pm : Dipy (Ariel Rokem)
-- 4:15pm : Workflow reproducibility
+- 4:15pm : Workflow reproducibility (David Kennedy)
+
+## Hands on Hacking Sessions
+
+### Monday
+-
+-
+-
+### Tuesday 
+-
+-
+-
+### Wednesday
+-
+-
+-
+### Thursday
+-
+-
+-
+
 
  
