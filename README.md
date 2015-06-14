@@ -10,19 +10,19 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 11:20am - Big Data and Cloud Computing (Dave Kennedy + Harry Chen (MS Azure))
 - 12:00pm - Lunch
 
-## Afternoon Session (TBD During Hackathon)
-- 1:00pm : Loris (Samir)
-- 1:15 : Duecredit (Yaroslav)
-- 1:30 : HCP in nipype (?)
-- 1:45 :  C-brain (Tristan)
+## Afternoon Session 
+- 1:00pm : Loris (Samir Das)
+- 1:15 : Duecredit (Yaroslav Halchenko)
+- 1:30 : HCP in nipype (Eric Earl)
+- 1:45 :  
 - 2:00 : Brainspell (Roberto Toro)
-- 2:15 : Nipype in CBrain
+- 2:15 : Nipype in CBrain (Tristan Glatard)
 - 2:30 : Popeye (Kevin Desimone)
-- 2:45 : Self organization and brain function
+- 2:45 : Self organization and brain function (Jörg Peter)
 - 3:00 : BREAK
 - 3:30 : Open data in the cloud
-- 3:45 : Neurovault
-- 4:00 : Dipy (Ariel)
+- 3:45 : Neurovault (Chris Gorgolewski)
+- 4:00 : Dipy (Ariel Rokem)
 - 4:15 : Workflow reproducibility
 
  
