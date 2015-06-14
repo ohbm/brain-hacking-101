@@ -11,18 +11,18 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 12:00pm - Lunch
 
 ## Afternoon Session 
-- 1:00pm : Loris (Samir Das)
-- 1:15 : Duecredit (Yaroslav Halchenko)
-- 1:30 : HCP in nipype (Eric Earl)
-- 1:45 :  
-- 2:00 : Brainspell (Roberto Toro)
-- 2:15 : Nipype in CBrain (Tristan Glatard)
-- 2:30 : Popeye (Kevin Desimone)
-- 2:45 : Self organization and brain function (Jörg Peter)
-- 3:00 : BREAK
-- 3:30 : Open data in the cloud
-- 3:45 : Neurovault (Chris Gorgolewski)
-- 4:00 : Dipy (Ariel Rokem)
-- 4:15 : Workflow reproducibility
+- 1:00pm : Introduction (Nolan Nichols)
+- 1:15pm : Loris (Samir Das)
+- 1:30pm : Duecredit (Yaroslav Halchenko)
+- 1:45pm : HCP in nipype (Eric Earl) 
+- 2:00pm : Brainspell (Roberto Toro)
+- 2:15pm : Nipype in CBrain (Tristan Glatard)
+- 2:30pm : Popeye (Kevin Desimone)
+- 2:45pm : Self organization and brain function (Jörg Peter)
+- 3:00pm : BREAK
+- 3:30pm : Open data in the cloud
+- 3:45pm : Neurovault (Chris Gorgolewski)
+- 4:00pm : Dipy (Ariel Rokem)
+- 4:15pm : Workflow reproducibility
 
  
