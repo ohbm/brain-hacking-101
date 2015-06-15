@@ -31,7 +31,7 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 
 ### Monday 
 
-At 1 PM, 2PM, and 3 PM (50 minutes)
+Repeating at 1 PM, 2PM, and 3 PM (50 minutes)
 
 - Scientific computing for neuorimaging with Python: A hands-on tutorial.
 
