@@ -26,24 +26,23 @@ Brain Hacking 101 Course for the 2015 HBM Hackathon in Honolulu Hawaii
 - 4:15pm : Workflow reproducibility (David Kennedy)
 
 ## Hands on Hacking Sessions
+
 - Each day from 1pm-4pm
 
 ### Monday 
+
 - Configuring your system for scientific computing
--
--
+
 ### Tuesday 
+
 - LONI Pipeline
 - C-PAC
--
+
 ### Wednesday
 - NITRC Computational Environment
--
--
+
 ### Thursday
--
--
--
+- ...
 
 
  
