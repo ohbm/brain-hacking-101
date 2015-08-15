@@ -1,5 +1,7 @@
 ## Instructions
 
+### Installation / Dependencies
+
 To run these notebooks, you will need to install the
 [`IPython`](http://ipython.org) software, and a few other scientific libraries.
 One way to install these is by using the (free) Anaconda software distribution:
@@ -15,11 +17,16 @@ You will also need the [`nibabel`](http://nipy.org/nibabel) library:
         pip install nibabel 
 
 Once you have followed these instructions, you should have all the software
-needed installed on your computer. To start running the notebooks, change the
+needed installed on your computer. 
+
+### Running the notebooks
+
+To start running the notebooks, change the
 working directory of your terminal to the directory where you have downloaded
 the notebook files (using `cd`) and type:
 
     ipython notebook
 
-A browser window should open with a list of notebook files. Start by reading
-the `index` notebook and follow the instructions from there.
+A browser window should open with a list of notebook files.
+
+Start by reading the `index` notebook and follow the instructions from there.
