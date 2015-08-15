@@ -52,3 +52,9 @@ docs/_build/
 
 # PyBuilder
 target/
+
+# ipython
+.ipynb_checkpoints/
+
+# produced files
+mean_and_std.png
